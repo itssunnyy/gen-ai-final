@@ -8,6 +8,11 @@ I built a self-contained “infinite zoom” loop in ComfyUI:
 (thanks to Golan for guiding me on the "infinite zoom")
 ![alt text](image.png)
 
+## Original Pictures
+![alt text](L1011249.JPG)
+![alt text](L1011257.JPG) 
+![alt text](L1011262.JPG)
+
 ## Workflow
 1. Loads an initial image into ComfyUI and crops and then later zooms in on its center.
 
