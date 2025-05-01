@@ -2,6 +2,8 @@
 
 I explored ComfyUI’s strength in image manipulation and generative enhancement to add realism and depth to the reflection of an eye, also by zooming in and allowing the AI to dream up what the eye might be seeing - or even metaphorically reflecting. I wrote prompt in ComfyUI to enhance and elaborate on the details within the reflection - essentially asking AI to "imagine" what might be visible in an eye.
 
+inspiration: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325
+
 I built a self-contained “infinite zoom” loop in ComfyUI:
 (thanks to Golan for guiding me on the "infinite zoom")
 ![alt text](image.png)
